@@ -11,3 +11,7 @@ If you need help with Markdown, see [GitHub Flavored Markdown](https://guides.gi
 - [Topics of interest](https://github.com/georgiamoon/adultingishard/issues)
 - [Suggested tone/style]()
 - [Writing best practices]()
+
+### Related projects
+
+- [@connorsb's productivity project](https://github.com/connorsb/productivity)
