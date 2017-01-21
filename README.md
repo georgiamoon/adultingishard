@@ -9,8 +9,8 @@ Check the issues page to see what articles we've talked about writing. If you ha
 If you need help with Markdown, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 - [Topics of interest](https://github.com/georgiamoon/adultingishard/issues)
-- [Suggested tone/style]() TODO: [@masomers](github.com/masomers)
-- [Writing best practices]() TODO: [@masomers](github.com/masomers)
+- [Suggested tone/style]() TODO: [@masomers](http://github.com/masomers)
+- [Writing best practices]() TODO: [@masomers](http://github.com/masomers)
 
 ### Related projects
 
