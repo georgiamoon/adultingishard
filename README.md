@@ -9,9 +9,13 @@ Check the issues page to see what articles we've talked about writing. If you ha
 If you need help with Markdown, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 - [Topics of interest](https://github.com/georgiamoon/adultingishard/issues)
-- [Suggested tone/style]()
-- [Writing best practices]()
+- [Suggested tone/style]() TODO: @masomers
+- [Writing best practices]() TODO: @masomers
 
 ### Related projects
 
 - [@connorsb's productivity project](https://github.com/connorsb/productivity)
+
+### Articles
+
+- List here
