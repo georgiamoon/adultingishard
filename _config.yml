@@ -1,1 +1,46 @@
-theme: jekyll-theme-architect
+# Site settings
+title: Adulting Is Hard
+email: adult@adultingishard.com
+description: > # this means to ignore newlines until "baseurl:"
+  Congratulations! You have unlocked "Adult" form!
+  You may now use the Freedom ability!
+  But be careful, Responsibility and Stress can
+  cause massive damage!
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://adultingishard.com" # the base hostname & protocol for your site
+twitter_username: adultingishard
+# github_username:  adultingishard
+# google_play: ''
+# google_plus_com: ''  # Community link
+# google_plus_per: ''  #Personal link
+# facebook_app_id: 0
+
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: default    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+# Material Design Lite (https://getmdl.io) options
+mdl:
+  version: "1.3.0"
+  # Colors can be: 
+  # [grey, blue_grey, brown, deep_orange, red, pink, purple, deep_purple, indigo, 
+  #  blue, light_blue, cyan, teal, green, light_green, lime, yellow, amber, orange]
+  color1: light_blue
+  # Color2 can be all of above, but NOT [grey, blue_grey, brown]
+  color2: pink
+
+more_vert:
+  option1:
+    name: Home
+    link: /
+  option2:
+    name: About
+    link: about
+
+disqus: true
+disqus_shortname: 'meatballmarket'
+
+# Build settings
+markdown: kramdown
