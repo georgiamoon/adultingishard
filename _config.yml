@@ -8,8 +8,8 @@ description: > # this means to ignore newlines until "baseurl:"
   cause massive damage!
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://adultingishard.com" # the base hostname & protocol for your site
-twitter_username: adultingishard
+url: "http://adultingharder.io" # the base hostname & protocol for your site
+twitter_username: adultingharder
 # github_username:  adultingishard
 # google_play: ''
 # google_plus_com: ''  # Community link
@@ -38,9 +38,6 @@ more_vert:
   option2:
     name: About
     link: about
-
-disqus: true
-disqus_shortname: 'meatballmarket'
 
 # Build settings
 markdown: kramdown

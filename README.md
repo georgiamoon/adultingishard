@@ -6,7 +6,7 @@ Our goal is to create checklists, templates, and other resources for accomplishi
 
 ### List of Topics
 
--  [Pet Ownership](https://github.com/georgiamoon/adultingishard/blob/master/pet%20ownership.md)
+-  [Pet Ownership](https://github.com/georgiamoon/adultingishard/blob/master/_posts/2017-04-02-Pet-Ownership.markdown)
 
 ### Interested in Contributing?
 
