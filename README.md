@@ -1,6 +1,12 @@
 ## Welcome to the Adulting is Hard Project
 
-Info about the project... coming soon.
+This is a collaborative open source project. 
+
+Our goal is to create checklists, templates, and other resources for accomplishing the activities of adulthood which 21st century western culture presents.
+
+### List of Topics
+
+-  [Pet Ownership](https://github.com/georgiamoon/adultingishard/blob/master/pet%20ownership.md)
 
 ### Interested in Contributing?
 

@@ -37,4 +37,5 @@ These may sound harsh, and all negative, but that's because the benefits of havi
 ## Resources for ownership
 
 [Responsible Dog Ownership](http://www.akc.org/dog-owners/responsible-dog-ownership/) - American Kennel Association
+
 [How to Care for Cats](http://www.vetstreet.com/cats/) - Vet Street
